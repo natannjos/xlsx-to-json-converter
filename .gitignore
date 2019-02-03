@@ -1,0 +1,5 @@
+*.json
+venv/
+*xlsx
+.idea/
+.vscode/
